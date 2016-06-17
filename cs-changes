@@ -1,0 +1,10 @@
+* create
+sonar-runner-impl/src/main/java/org/sonar/runner/impl/ProxyLogin.java
+sonar-runner-impl/src/main/java/org/sonar/runner/impl/SonarContext.java
+
+* update
+- sonar-runner-dist/src/main/java/org/sonar/runner/Main.java
+sonar-runner-dist/src/main/assembly/conf/sonar-runner.properties
+sonar-runner-impl/src/main/java/org/sonar/runner/impl/ServerConnection.java
+pom.xml
+sonar-runner-impl/pom.xml
